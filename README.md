@@ -3,3 +3,6 @@ My very own LSDJ kits that I make available to the public. No credit needed, but
 
 Here's the LSDJ patcher ting:
 https://github.com/jkotlinski/lsdpatch
+
+Also the how-to on the LSDJ Wiki and whatnot:
+https://littlesounddj.fandom.com/wiki/Custom_Kits_HOWTO
